@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colinsloane123
 - 👀 I’m interested in developing apps relating to Health Diagnostics and also relating to sport/leisure 
-- 🌱 I’m currently learning and have very limited coding knowledge, I have layed around a little with LIVECODE
+- 🌱 I’m currently learning and have very limited coding knowledge, I have played around a little with LIVECODE
 - 💞️ I’m looking to collaborate on an idea I began a few years ago creating an app to diagnose Dementia DiADeM
 - 📫 How to reach me colinsloane@gmail.com
 - 😄 Pronouns: He/Him
