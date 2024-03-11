@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an idea I began a few years ago creating an app to diagnose Dementia DiADeM
 - 📫 How to reach me colinsloane@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im keen on lts of sports particularly cycling and playing squash
+- ⚡ Fun fact: Im keen on lots of sports particularly cycling and playing squash
 
 <!---
 colinsloane123/colinsloane123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
